@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//Decimal to Binary Conversion
 int DecToBin(int decNum) {
     int ans = 0;
     int pow = 1;
